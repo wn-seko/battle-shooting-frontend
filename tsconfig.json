@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./src/typings", "node_modules/@types"],
+    "rootDirs": ["src"],
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "composite": true,
+    "module": "ES6",
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "jsx": "react",
+    "esModuleInterop": true
+  },
+  "include": ["./src/**/*", "./test/**/*"],
+  "exclude": ["node_modules", "build", "scripts"]
+}
