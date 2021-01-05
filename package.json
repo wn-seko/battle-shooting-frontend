@@ -77,7 +77,7 @@
     "webpack-merge": "^4.1.2"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "connected-react-router": "^6.5.2",
     "history": "^4.7.2",
     "immer": "^3.1.2",
