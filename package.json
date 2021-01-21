@@ -80,7 +80,7 @@
     "axios": "^0.19.0",
     "connected-react-router": "^6.5.2",
     "history": "^4.7.2",
-    "immer": "^3.1.2",
+    "immer": "^8.0.1",
     "lodash-es": "^4.17.15",
     "moment-timezone": "^0.5.20",
     "normalize.css": "^8.0.0",
